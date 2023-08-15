@@ -29,3 +29,10 @@
 
 - [create-l](https://github.com/Bernankez/create-l) - TypeScript Library Scaffold
 - [uni-app-template](https://github.com/Bernankez/UniAppTemplate)
+
+## Applications
+
+- [Linearmouse](https://github.com/linearmouse/linearmouse) (Mac OS)
+- [Rectangle](https://github.com/rxhanson/Rectangle) (Mac OS)
+- [Xnip](http://zh.xnipapp.com/) (Mac OS)
+- [RunCat](https://kyome.io/runcat/index.html) (Mac OS)
