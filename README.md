@@ -2,14 +2,13 @@
 
 ## Develop
 
-- Editor: [VSCode](https://code.visualstudio.com/)
+- Editor: [VSCode](https://code.visualstudio.com/) / [WebStorm](https://www.jetbrains.com/webstorm/download/) / [Cursor](https://www.cursor.com/) (With AI support)
 - [Git](https://git-scm.com/)
 - VSCode Settings: [Bernankez/vscode-settings](https://github.com/Bernankez/vscode-settings)
 - ESLint Config: [Bernankez/eslint-config](https://github.com/Bernankez/eslint-config)
-- Stylelint Config: [Bernankez/stylelint-config](https://github.com/Bernankez/stylelint-config)
+- ~Stylelint Config: [Bernankez/stylelint-config](https://github.com/Bernankez/stylelint-config)~
 - [nvm](https://github.com/nvm-sh/nvm) (MacOS) | [nvm-windows](https://github.com/coreybutler/nvm-windows) (Windows)
 - [git-open](https://github.com/paulirish/git-open)
-- Editor: [WebStorm](https://www.jetbrains.com/webstorm/download/) (For Vue2 projects)
 
 ## CLI
 
