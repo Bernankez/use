@@ -6,9 +6,10 @@
 - [Git](https://git-scm.com/)
 - VSCode Settings: [Bernankez/vscode-settings](https://github.com/Bernankez/vscode-settings)
 - ESLint Config: [Bernankez/eslint-config](https://github.com/Bernankez/eslint-config)
-- ~Stylelint Config: [Bernankez/stylelint-config](https://github.com/Bernankez/stylelint-config)~
-- [nvm](https://github.com/nvm-sh/nvm) (MacOS) | [nvm-windows](https://github.com/coreybutler/nvm-windows) (Windows)
-- [git-open](https://github.com/paulirish/git-open)
+- ~~Stylelint Config: [Bernankez/stylelint-config](https://github.com/Bernankez/stylelint-config)~~
+- [fnm](https://github.com/Schniz/fnm) - Node.js version manager
+- [git-open](https://github.com/paulirish/git-open) - Open project git
+- [npm-open](https://github.com/Bernankez/npm-open) - Open project npm
 
 ## CLI
 
@@ -36,3 +37,4 @@
 - [Rectangle](https://github.com/rxhanson/Rectangle) (Mac OS)
 - [Xnip](http://zh.xnipapp.com/) (Mac OS)
 - [RunCat](https://kyome.io/runcat/index.html) (Mac OS)
+- [WizTree](https://github.com/Ji4n1ng/WizTree) (Windows) | [DaisyDisk](https://apps.apple.com/cn/app/daisydisk/id411643860?mt=12) (Mac OS) - Space analysis
