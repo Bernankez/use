@@ -38,3 +38,6 @@
 - [Xnip](http://zh.xnipapp.com/) (Mac OS)
 - [RunCat](https://kyome.io/runcat/index.html) (Mac OS)
 - [WizTree](https://github.com/Ji4n1ng/WizTree) (Windows) | [DaisyDisk](https://apps.apple.com/cn/app/daisydisk/id411643860?mt=12) (Mac OS) - Space analysis
+
+## Websites
+- [lofi.cafe](https://www.lofi.cafe/)
