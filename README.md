@@ -2,13 +2,17 @@
 
 ## Develop
 
-- Editor: [VSCode](https://code.visualstudio.com/) / [WebStorm](https://www.jetbrains.com/webstorm/download/) / [Cursor](https://www.cursor.com/) (With AI support)
+- Editor: [VSCode](https://code.visualstudio.com/) / [WebStorm](https://www.jetbrains.com/webstorm/download/) / [Cursor](https://www.cursor.com/) (With AI support) / [Zed](https://zed.dev/)
 - [Git](https://git-scm.com/)
-- VSCode Settings: [Bernankez/vscode-settings](https://github.com/Bernankez/vscode-settings)
+- VSCode Settings: [Bernankez/editor-settings](https://github.com/Bernankez/editor-settings/tree/master/.vscode)
+- Zed Settings: [Bernankez/editor-settings](https://github.com/Bernankez/editor-settings/tree/master/.zed)
 - ESLint Config: [Bernankez/eslint-config](https://github.com/Bernankez/eslint-config)
 - [fnm](https://github.com/Schniz/fnm) - Node.js version manager
+- [ni](https://github.com/antfu-collective/ni) - Auto using the right package manager
+- [nip](https://github.com/antfu/nip) - pnpm-specific CLI to use `pnpm install` with prompts and catalog support
 - [git-open](https://github.com/paulirish/git-open) - Open project git
 - [npm-open](https://github.com/Bernankez/npm-open) - Open project npm
+- [Homebrew](https://brew.sh/)
 - [Reqable](https://reqable.com/) - RESTFUL client
 - Browser: Edge / [Zen](https://zen-browser.app/)
 - ~~Stylelint Config: [Bernankez/stylelint-config](https://github.com/Bernankez/stylelint-config)~~
