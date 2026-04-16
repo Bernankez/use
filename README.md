@@ -47,6 +47,7 @@
 - [Heynote](https://heynote.com/) (Mac / Win)
 - [Typora](https://typora.io/) (Mac / Win)
 - [Raycast](https://www.raycast.com/) (Mac)
+- [Antify](https://antifyapp.com/) (Mac) - 应用代理/防火墙
 - ~~[Xnip](http://zh.xnipapp.com/) (Mac)~~
 
 ## Websites
