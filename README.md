@@ -1,5 +1,12 @@
 <h1><samp>Things I'm using.</samp></h1>
 
+## AI
+
+- [AMP Code](https://ampcode.com/) Coding Agent CLI
+- [Claude Code](https://code.claude.com/) Coding Agent CLI
+- [Craft Agents](https://agents.craft.do/) Desktop Agent
+- [LM Studio](https://lmstudio.ai/)
+
 ## Develop
 
 - Editor: [VSCode](https://code.visualstudio.com/) / [WebStorm](https://www.jetbrains.com/webstorm/download/) / [Cursor](https://www.cursor.com/) (With AI support) / [Zed](https://zed.dev/)
